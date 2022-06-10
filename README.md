@@ -21,5 +21,5 @@ var now = new Data();
 
 <www.naver.com>
 
-[네이버](www.naver.com)
-[네이버](www.naver.com, "검색엔진")
+[네이버](http://www.naver.com)
+[네이버](http://www.naver.com, "검색엔진")
